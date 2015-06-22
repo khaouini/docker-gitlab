@@ -5,7 +5,7 @@
 Build the gitlab image.
 
 ```bash
-git clone https://github.com/jasonbrooks/docker-gitlab.git
+git clone https://github.com/khaouini/docker-gitlab.git
 cd docker-gitlab
 docker build --tag="$USER/gitlab" .
 ```
